@@ -11,3 +11,6 @@ In this project, you will learn how to automate the deployment of a Node.js Reac
 ### A Detailed Article 
 
 https://www.linkedin.com/pulse/cicd-pipeline-nodejs-react-application-using-github-actions-rashid-d2svf/?trackingId=5cFTZuoyQGqD2C3IWko0XQ%3D%3D
+
+### Youtube Video
+https://youtu.be/UK_OVKDRArs?si=Sw9LvztVDYYM_IRr
